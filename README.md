@@ -14,14 +14,14 @@ python pass.py foobar123 2022-12-24
 
 Currently the script is hardcoded to search for times in Stockholm city (Bergsgatan). In order to search for another location modify the value of SectionId parameter of the variable data on line 12. According to the following:
 
-*"38"-Flemingsberg
-*"40"-Globen
-*"46"-Haninge
-*"113"-Järva (Rinkeby)
-*"45"-Nacka
-*"44"-Norrtälje
-*"43"-Sollentuna
-*"42"-Solna
-*"41"-Sthlm City
-*"47"-Södertälje
-*"48"-Södra Roslagen (Täby)
+* "38"-Flemingsberg
+* "40"-Globen
+* "46"-Haninge
+* "113"-Järva (Rinkeby)
+* "45"-Nacka
+* "44"-Norrtälje
+* "43"-Sollentuna
+* "42"-Solna
+* "41"-Sthlm City
+* "47"-Södertälje
+* "48"-Södra Roslagen (Täby)
