@@ -8,7 +8,7 @@ pip install beautifulsoup4
 ## Use:
 * Authenticate to https://bokapass.nemoq.se/Booking/Booking/Index/stockholm in your browser.
 * When you reach the page allowing you to search for times copy the value of session cookie ASP.NET_VentusBooking_SessionId from the developer tools.
-* If the value of the cookie ASP.NET_VentusBooking_SessionIdRun is foobar123 and you would like to find time in the week including 2022-12-24 you run the script as follows:
+* If the value of the cookie ASP.NET_VentusBooking_SessionIdRun is foobar123 and you would like to find time in the week including 2022-12-24 you run the script as bellow. When an available time is found the message "Tid Finns" will be written to the terminal and beep sounds made. At that point cancel the script by pressing Ctrl+C and book the time in your browser. 
 
 python pass.py foobar123 2022-12-24
 
